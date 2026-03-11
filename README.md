@@ -4,13 +4,13 @@
 
 <br><br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=35&center=true&vCenter=true&width=800&lines=Hello+👋,+I'm+Tico+Jacques;Software+Developer+💻;Video+Editor+🎬;Technology+Enthusiast+🚀;From+Brazil+🇧🇷)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=35&center=true&vCenter=true&width=800&lines=Hello+👋,+I'm+Lucas+Macarini;Software+Developer+💻;Video+Editor+🎬;Technology+Enthusiast+🚀;From+Brazil+🇧🇷)
 
 <br>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas0M&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas0M&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -32,7 +32,7 @@ Besides programming, I also work with **video editing for social media platforms
 
 ```json
 {
-  "name": "Tico Jacques",
+  "name": "Lucas Macarini",
   "role": "Software Developer & Video Editor",
   "country": "Brazil",
   "main_focus": "Web Development",
