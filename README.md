@@ -14,7 +14,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas0M&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
   </div>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas0M&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas0M&layout=compact&theme=github_dark&hide_border=true"/>
 
